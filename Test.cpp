@@ -1,9 +1,12 @@
+//Liraz Balas
+//211801220
+//lbalad13@gmail.com
 #include "doctest.h"
 #include "Algorithms.hpp"
 #include "Graph.hpp"
 
 using namespace std;
-//2
+
 TEST_CASE("Test operator +")
 {
 
